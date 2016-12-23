@@ -1,4 +1,4 @@
-const token = 'YOUR_BOT_TOKEN';
+const token = 'cod';
 const github = {
   version: '3.0.0',
   // optional
